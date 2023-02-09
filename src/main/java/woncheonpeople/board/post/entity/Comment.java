@@ -1,4 +1,4 @@
-package woncheonpeople.board.post;
+package woncheonpeople.board.post.entity;
 
 import java.sql.Date;
 

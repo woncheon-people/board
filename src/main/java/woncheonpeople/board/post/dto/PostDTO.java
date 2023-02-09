@@ -1,4 +1,4 @@
-package woncheonpeople.board.post;
+package woncheonpeople.board.post.dto;
 
 import lombok.Data;
 

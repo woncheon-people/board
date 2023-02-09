@@ -6,6 +6,8 @@ import org.springframework.data.domain.Pageable;
 import org.springframework.stereotype.Service;
 
 import lombok.AllArgsConstructor;
+import woncheonpeople.board.post.dto.PostDTO;
+import woncheonpeople.board.post.entity.Post;
 
 @Service
 @AllArgsConstructor

@@ -16,6 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import lombok.AllArgsConstructor;
+import woncheonpeople.board.post.dto.PostDTO;
+import woncheonpeople.board.post.entity.Post;
 
 @RestController
 @RequestMapping("/posts")
